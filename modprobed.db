@@ -7,8 +7,6 @@
 9pnet
 9pnet_virtio
 ac97_bus
-acer_wireless
-acer_wmi
 acpi_cpufreq
 acpi_mdio
 acpi_pad
@@ -154,7 +152,6 @@ hfsplus
 hid
 hid_asus
 hid_generic
-hid_hyperv
 hid_logitech_dj
 hid_logitech_hidpp
 hid_microsoft
